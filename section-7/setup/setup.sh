@@ -3,9 +3,9 @@
 MATERIALS=airflow-materials-aws
 
 # SET YOUR values
-GIT_USERNAME=marclamberti
-GIT_TOKEN=cb53803446b0968e132e2e8ff729c7596fb0d7c8
-S3_BUCKET_NAME_DEV=airflow-dev-codepipeline-artifacts
+GIT_USERNAME=hcsdsg2023
+GIT_TOKEN=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
+S3_BUCKET_NAME_DEV=airflow-dev-codepipeline-artifacts-hcsdsg
 S3_BUCKET_NAME_STAGING=airflow-staging-codepipeline-artifacts
 
 # ----------------------------- Start the EKS Cluster
